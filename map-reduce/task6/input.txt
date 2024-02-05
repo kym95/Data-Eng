@@ -1,5 +1,7 @@
-1448713968	user2	https://ru.wikipedia.org/
-1448764519	user10	https://vk.com/profile
-1448713968	user5	http://google.com/
-1448773411	user10	https://ru.wikipedia.org/explore/data-science
-1448709864	user3	http://vk.com/
+user1	query:гугл
+user1	url:google.ru
+user2	query:котики
+user2	query:котики с цветами
+user2	url:yandex.ru
+user2	url:yandex.ru/explore/images
+user3	query:вконтакте
